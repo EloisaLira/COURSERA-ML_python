@@ -1,1 +1,1 @@
-# COURSERA-ML_python
+# COURSERA/ML_python
